@@ -47,4 +47,4 @@ The developer reserves the right to terminate access to the application if:
 ## Governing Law
 These terms shall be governed by and construed in accordance with the laws of Japan.
 
-Last Updated: 2024・11・5
+Last Updated: 2024.11.5
